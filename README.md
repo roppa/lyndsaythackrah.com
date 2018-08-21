@@ -1,3 +1,3 @@
-#Lyndsaythackrah.com Website
+# Lyndsaythackrah.com Website
 
 UX Designer
